@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    /* background-size: ; */
+    background-position: right;
+    /* background-size: contain; */
+    background-size: cover;
+    /* background-size: 150%; */
+    /* back */
+    
+
+    
+}
+
+#description {
+    background-color: #71b4db;
+    color: white;
+    width: 500px;
+    margin-left: 35px;
+    border-radius: 16px;
+    font-size: 32px;
+    padding: 30px;
+}
+
+html {
+    margin: 0;
+    /* overflow: hidden; */
+}
