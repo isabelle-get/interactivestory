@@ -30,13 +30,13 @@ next: 2
       {
         text: "1",
         choice: 3,
-        backgroundColor: "#1E3A8A",
+        backgroundColor: "#1E40AF",
         textColor: "#ffffff",
       },
       {
         text: "2",
         choice: 15,
-        backgroundColor: "#2563EB",
+        backgroundColor: "#166534",
         textColor: "#ffffff",
       },
     ]
@@ -68,13 +68,13 @@ There stood a young girl, no older than seven. After her came a woman. she looke
      {
       text: "play",
       choice: 5,
-      backgroundColor: "#d6a77a",
+      backgroundColor: "#B45309",
       textColor: "#ffffff",
     },
  {
       text: "don't play",
       choice: 7,
-      backgroundColor: "#9c3e10",
+      backgroundColor: "#6D28D9",
       textColor: "#ffffff",
     },
   ]
@@ -112,13 +112,13 @@ choices: [
      {
       text: "tell",
       choice: 11,
-      backgroundColor: "#d6a77a",
+      backgroundColor: "#1F2937",
       textColor: "#ffffff",
     },
      {
       text: "calm her down",
       choice: 10,
-      backgroundColor: "#9c3e10",
+      backgroundColor: "#1D4ED8",
       textColor: "#ffffff",
     },
   ]
@@ -146,13 +146,13 @@ choices: [
      {
       text: "tell",
       choice: 11,
-      backgroundColor: "#d6a77a",
+      backgroundColor: "#047857",
       textColor: "#ffffff",
     },
      {
       text: "continue",
       choice: 8,
-      backgroundColor: "#9c3e10",
+      backgroundColor: "#C2410C",
       textColor: "#ffffff",
     },
   ]
@@ -228,13 +228,13 @@ choices: [
      {
       text: "read the letters",
       choice: 14,
-      backgroundColor: "#d6a77a",
+      backgroundColor: "#7C2D12",
       textColor: "#ffffff",
     },
      {
       text: "end",
       choice: 13,
-      backgroundColor: "#9c3e10",
+      backgroundColor: "#334155",
       textColor: "#ffffff",
     },
   ]
@@ -321,13 +321,13 @@ choices: [
      {
       text: "help him",
       choice: 18,
-      backgroundColor: "#d6a77a",
+      backgroundColor: "#0F766E",
       textColor: "#ffffff",
     },
      {
       text: "let him be",
       choice: 8,
-      backgroundColor: "#9c3e10",
+      backgroundColor: "#3F6212",
       textColor: "#ffffff",
     },
   ]
@@ -363,13 +363,13 @@ choices: [
      {
       text: "go outside",
       choice: 11,
-      backgroundColor: "#d6a77a",
+      backgroundColor: "#BE123C",
       textColor: "#ffffff",
     },
      {
       text: "stay inside",
       choice: 20,
-      backgroundColor: "#9c3e10",
+      backgroundColor: "#7C2D12",
       textColor: "#ffffff",
     },
   ]
@@ -429,13 +429,13 @@ choices: [
      {
       text: "jump over the lake",
       choice: 11,
-      backgroundColor: "#d6a77a",
+      backgroundColor: "#155E75",
       textColor: "#ffffff",
     },
      {
       text: "do what he asked",
       choice: 23,
-      backgroundColor: "#9c3e10",
+      backgroundColor: "#991B1B",
       textColor: "#ffffff",
     },
   ]
@@ -679,7 +679,7 @@ choices: [
     },
      {
       text: "continue",
-      choice: 8,
+      choice: 8,                     
       backgroundColor: "#9c3e10",
       textColor: "#ffffff",
     },
@@ -723,4 +723,5 @@ function nextScene(sceneId) {
       
     });
   }
+
 }
