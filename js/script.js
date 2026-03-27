@@ -1,4 +1,5 @@
 const scenes = [
+
   {
     id: 1,
     backgroundImage: "img/BlueFlower.png",
@@ -63,7 +64,8 @@ There stood a young girl, no older than seven. After her came a woman. she looke
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
     },
-    description: `I was scheduled for 7 days. And began writing on the second day, when the woman found the strength to sit up. I was told the letters were for the child when she would grow older, but had to promise not to tell. I kept that promise and wrote letter after letter at the woman’s request. At the 4th day while I was writing, the little girl who was introduced as Ann came up to me asking to play. `,
+    description: `I was scheduled for 7 days. And began writing on the second day, when the woman found the strength to sit up. I was told the letters were for the child when she would grow older, but had to promise not to tell. I kept that promise and wrote letter after letter at the woman’s request. At the 4th day while I was writing, the little girl who was introduced as Ann came up to me asking to play. 
+    `,
     choices: [
      {
       text: "play",
@@ -107,7 +109,8 @@ Why must you take her away from me! I didn’t do anything!”
 “Your mother l0ves you very much”
 “Then why keep it a secret”
 “That, I am afraid I cannot tell”
-“Just tell me!” `,
+“Just tell me!” 
+`,
 choices: [
      {
       text: "tell",
@@ -223,7 +226,8 @@ After that i continued to write letters, but this time Ann got to be in the room
       textColor: "#ffffff",
     },
     description: `Then it was time for me to say good bye. I travelled all the way back to the office. Not before I walked inside and one of my friends came over did I let out my sorrow.
-“All I could do was just watch, I wrote over fifty letters but by the time the first one arrive her mother will already be... she will be so lonely, all alone in that house and there was nothing I could do”`,
+“All I could do was just watch, I wrote over fifty letters but by the time the first one arrive her mother will already be... she will be so lonely, all alone in that house and there was nothing I could do”
+`,
 choices: [
      {
       text: "read the letters",
@@ -272,7 +276,7 @@ Happy birthday Ann. You are already twenty years old now. That is amazing. But r
   },
   {
     id: 15,
-    backgroundImage: "img/.png",
+    backgroundImage: "img/15.webp",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
@@ -326,7 +330,7 @@ choices: [
     },
      {
       text: "let him be",
-      choice: 8,
+      choice: 26,
       backgroundColor: "#3F6212",
       textColor: "#ffffff",
     },
@@ -335,7 +339,7 @@ choices: [
   // ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''image
   {
     id: 18,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s1826.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
@@ -349,7 +353,7 @@ No matter I went out again to buy some typing paper and ingrediencies for carbon
   },
   {
     id: 19,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s1826.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
@@ -362,7 +366,7 @@ No matter I went out again to buy some typing paper and ingrediencies for carbon
 choices: [
      {
       text: "go outside",
-      choice: 11,
+      choice: 30,
       backgroundColor: "#BE123C",
       textColor: "#ffffff",
     },
@@ -377,7 +381,7 @@ choices: [
   },
   {
     id: 20,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s20.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
@@ -389,7 +393,7 @@ choices: [
   },
   {
     id: 21,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s2131.webp",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
@@ -413,7 +417,7 @@ Why does God take what's most precious?"
   },
   {
     id: 22,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s22.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
@@ -428,7 +432,7 @@ Why does God take what's most precious?"
 choices: [
      {
       text: "jump over the lake",
-      choice: 11,
+      choice: 24,
       backgroundColor: "#155E75",
       textColor: "#ffffff",
     },
@@ -442,7 +446,7 @@ choices: [
   },
   {
     id: 23,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s23.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
@@ -456,164 +460,84 @@ choices: [
   },
   {
     id: 24,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s24.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
     },
-    description: `“I apologize ann, but I have to continue my work”
-The rest of the day I wrote as many letters i could while the woman still had strength. Then the evening fell upon. I was combing my hair, and was about to turn off the lights when I heard a knock.
-“Come in”
-It was ann.
-“What are you doing?”
-“I was about to go to bed”
-“Are you going to wite letters tomorrow too?” 
-“Yes”
-“And the next day after that and the day after that again, seven days. Who are you writing the letters for”
+    description: `I walked to the oter side of a smaller part of the lake with thr parasolin hand. Took a few steps back, and ran. Then jumped. I could feel the wind against my face, it was like i was flying. Then i felt the water against my shoe. one. two three!. yes, I managed to go three steps over the water. SPLASH. The water soaked through my clothes, but when I looked up the man was in tears. 
+    "Sir, are you okay?"
+    "You made my oliva's dreams come true"
 
 `,
-choices: [
-     {
-      text: "tell",
-      choice: 11,
-      backgroundColor: "#d6a77a",
-      textColor: "#ffffff",
-    },
-     {
-      text: "continue",
-      choice: 8,
-      backgroundColor: "#9c3e10",
-      textColor: "#ffffff",
-    },
-  ]
   },
   {
     id: 25,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s25.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
     },
-    description: `“I apologize ann, but I have to continue my work”
-The rest of the day I wrote as many letters i could while the woman still had strength. Then the evening fell upon. I was combing my hair, and was about to turn off the lights when I heard a knock.
-“Come in”
-It was ann.
-“What are you doing?”
-“I was about to go to bed”
-“Are you going to wite letters tomorrow too?” 
-“Yes”
-“And the next day after that and the day after that again, seven days. Who are you writing the letters for”
+    description: `Thank you
 
 `,
-choices: [
-     {
-      text: "tell",
-      choice: 11,
-      backgroundColor: "#d6a77a",
-      textColor: "#ffffff",
-    },
-     {
-      text: "continue",
-      choice: 8,
-      backgroundColor: "#9c3e10",
-      textColor: "#ffffff",
-    },
-  ]
+
   },
   {
     id: 26,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s1826.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
     },
-    description: `“I apologize ann, but I have to continue my work”
-The rest of the day I wrote as many letters i could while the woman still had strength. Then the evening fell upon. I was combing my hair, and was about to turn off the lights when I heard a knock.
-“Come in”
-It was ann.
-“What are you doing?”
-“I was about to go to bed”
-“Are you going to wite letters tomorrow too?” 
-“Yes”
-“And the next day after that and the day after that again, seven days. Who are you writing the letters for”
+    description: `“I have brought my own typewriter, do you have typing paper?”
+“no, they sell it in the store by the main road, go and buy some and while you’re at it I want carbonara for dinner”
+“why must you bee so difficult”
+No matter I had to buy typing paper, so I went out. After buying the paper I needed I walke by a small bakery. The smell of fresh pastery drew me in. Not more than five minutes later I emerged with a full bag of breads of all kinds and steaming hot buns. 
+
 
 `,
-choices: [
-     {
-      text: "tell",
-      choice: 11,
-      backgroundColor: "#d6a77a",
-      textColor: "#ffffff",
-    },
-     {
-      text: "continue",
-      choice: 8,
-      backgroundColor: "#9c3e10",
-      textColor: "#ffffff",
-    },
-  ]
+
   },
   {
     id: 27,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s1826.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
     },
-    description: `“I apologize ann, but I have to continue my work”
-The rest of the day I wrote as many letters i could while the woman still had strength. Then the evening fell upon. I was combing my hair, and was about to turn off the lights when I heard a knock.
-“Come in”
-It was ann.
-“What are you doing?”
-“I was about to go to bed”
-“Are you going to wite letters tomorrow too?” 
-“Yes”
-“And the next day after that and the day after that again, seven days. Who are you writing the letters for”
+    description: `Then it was time to head back to the house. The moment I walked inside the stenchof alcohol filled my nose.
+    "I bougt bread, want some?"
+    "Yeah yeah. just... um put them on the able, my head hurts"
+    *Next day*
+    "Sir, should we start with the play now?"
+    "In a moment"
+    Then he fell asleep. Deciding not to keep standng awkwardly I began to walk around the house. Bang! A sudden loud sound came from one of the rooms. I walked in to see a picture laying on the floor.
 
 `,
-choices: [
-     {
-      text: "tell",
-      choice: 11,
-      backgroundColor: "#d6a77a",
-      textColor: "#ffffff",
-    },
-     {
-      text: "continue",
-      choice: 8,
-      backgroundColor: "#9c3e10",
-      textColor: "#ffffff",
-    },
-  ]
+
   },
   {
     id: 28,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s28.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
     },
-    description: `“I apologize ann, but I have to continue my work”
-The rest of the day I wrote as many letters i could while the woman still had strength. Then the evening fell upon. I was combing my hair, and was about to turn off the lights when I heard a knock.
-“Come in”
-It was ann.
-“What are you doing?”
-“I was about to go to bed”
-“Are you going to wite letters tomorrow too?” 
-“Yes”
-“And the next day after that and the day after that again, seven days. Who are you writing the letters for”
+    description: `I had just picked it uf from the ground when I looked at the picture. The was photo of a young girl, she had blue eyes and blonde hair like mine. She lokked so happy, but I haven't seen her around the house. I put the picture back on the shelf when I heard a voice behind me.
+    "What are you doing, GET OUT! This was a mistake. Leave now, you are not needed any more"
 
 `,
 choices: [
      {
-      text: "tell",
-      choice: 11,
+      text: "stay",
+      choice: 21,
       backgroundColor: "#d6a77a",
       textColor: "#ffffff",
     },
      {
-      text: "continue",
-      choice: 8,
+      text: "Leave",
+      choice: 29,
       backgroundColor: "#9c3e10",
       textColor: "#ffffff",
     },
@@ -626,69 +550,65 @@ choices: [
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
     },
-    description: `“I apologize ann, but I have to continue my work”
-The rest of the day I wrote as many letters i could while the woman still had strength. Then the evening fell upon. I was combing my hair, and was about to turn off the lights when I heard a knock.
-“Come in”
-It was ann.
-“What are you doing?”
-“I was about to go to bed”
-“Are you going to wite letters tomorrow too?” 
-“Yes”
-“And the next day after that and the day after that again, seven days. Who are you writing the letters for”
+    description: `END
 
 `,
-choices: [
-     {
-      text: "tell",
-      choice: 11,
-      backgroundColor: "#d6a77a",
-      textColor: "#ffffff",
-    },
-     {
-      text: "continue",
-      choice: 8,
-      backgroundColor: "#9c3e10",
-      textColor: "#ffffff",
-    },
-  ]
+
   },
   {
     id: 30,
-    backgroundImage: "img/s7.png",
+    backgroundImage: "img/s30.jpg",
     descriptionBox: {
       backgroundColor: "rgba(0, 0, 0, 0.65)",
       textColor: "#ffffff",
     },
-    description: `“I apologize ann, but I have to continue my work”
-The rest of the day I wrote as many letters i could while the woman still had strength. Then the evening fell upon. I was combing my hair, and was about to turn off the lights when I heard a knock.
-“Come in”
-It was ann.
-“What are you doing?”
-“I was about to go to bed”
-“Are you going to wite letters tomorrow too?” 
-“Yes”
-“And the next day after that and the day after that again, seven days. Who are you writing the letters for”
+    description: `"Okay"
+    While the man walked to his room I wanted to see more of the outside. I was just about to open the door when a pretty blue parasol catched my eye. It was just leaning against the wall, tucked in behind all the clotes that I almost missed it. I decided to take it with me outside. walking outside I felt the gentle wind brushing against my face, then I opened the parasol. "Woah, so beatufull" The patten, ruffles, color, everything was so beatufull. I walked to the lake and just stood there, taking in the beatuifull view. The slight russle in the trees, the waterbirds swimming around, quiet and peaceful. 
 
 `,
+
+  },
+    {
+    id: 31,
+    backgroundImage: "img/s2131.jpg",
+    descriptionBox: {
+      backgroundColor: "rgba(0, 0, 0, 0.65)",
+      textColor: "#ffffff",
+    },
+    description: `I was lost in tought when I heard the man's voice behind me
+    "STOP IT"
+    "I apologize, I shound't have-"
+    "Just stop it... I have had enough. Just go home."
+    "But then Olive's story won't be finished, she won't get to see her father again. Olive's story will not be compleated!"
+    "I can't write anymore, but I can't let it end like this, the story I told olivia. My daughter.  I Don't think I could ever write again, but I wanted to finish the story I told her. After I lost my wife, I decided to move here, to our summer house. Olivia continued to smile through it all. She even helped me out, but I think she was sad and only putting on a brave face.
+
+Her favorite things were a silly frilled parasol and waterbirds. On the days we walked outside and stood by the lake, she would hold up her parasol and say, 'One day I'll walk on the leaves scattered over the lake, letting my parasol and the wind carry me. I promise I'll show you one day.'
+
+Then... it all happened so suddenly. I had to argue with the doctors just to keep her home for the few remaining days she had left. Those days were spent in a comfortable quiet filled with warmth. Until the last day.
+
+Why does God take what's most precious?" " 
+
+`,
+
 choices: [
-     {
-      text: "tell",
-      choice: 11,
-      backgroundColor: "#d6a77a",
+  {
+    text: "Next",
+      choice: 22,
+      backgroundColor: "#171616",
       textColor: "#ffffff",
-    },
-     {
-      text: "continue",
-      choice: 8,                     
-      backgroundColor: "#9c3e10",
-      textColor: "#ffffff",
-    },
-    ]
+  }
+]
+
   },
 ];
 
+
+// let sceneId;
+
 function startScene() {
   let scene = scenes[0];
+
+  sceneId = scenes[0].id;
   let bgimage = scene.backgroundImage;
   document.body.style.backgroundImage = `url(${bgimage})`;
 
@@ -702,6 +622,8 @@ startScene();
 function nextScene(sceneId) {
   console.log("next scene", sceneId);
   sceneNumber = parseInt(sceneId);
+  // sceneId = sceneNumber;
+
 
   console.log("scene number", sceneNumber);
   document.getElementById("description").innerText = "";
@@ -717,11 +639,32 @@ function nextScene(sceneId) {
   document.getElementById("description").style.color = scene.descriptionBox.textColor;
   let choices = scene.choices
 
-  if (choices.length > 0) {
+  if (choices && choices.length > 0) {
     choices.forEach(choice => {
       document.getElementById("description").innerHTML  += `<button style="background-color: ${choice.backgroundColor}; color: ${choice.textColor};" onclick="nextScene(${choice.choice})">${choice.text}</button>`;
       
     });
+  } else {
+
+    if(sceneId === 13 || sceneId === 29 || sceneId === 25 || sceneId === 23 || sceneId === 14) {
+      document.getElementById("description").innerHTML  += `<button onclick="goToHome()">Replay</button>`;
+
+    } else {
+
+      document.getElementById("description").innerHTML  += `<button onclick="nextScene(${sceneId + 1})">Next</button>`;
+    }
+
   }
 
 }
+
+
+function goToHome() {
+  startScene();
+}
+ 
+document.addEventListener("keydown", function (event) {
+  if (event.code === "Space") {
+    handleSpace();
+  }
+});

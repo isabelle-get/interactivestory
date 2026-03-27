@@ -7,9 +7,27 @@ body {
     background-size: cover;
     /* background-size: 150%; */
     /* back */
-    
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
 
-    
+#description {
+  max-height: 510px;   
+  overflow-y: auto;    
+  overflow-x: hidden;  
+}
+#description::-webkit-scrollbar {
+  background-color: transparent;
+  color: thistle;  
+}
+
+button {
+    size: wrap;
+    margin: 5px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    padding: 8px;
 }
 
 #description {
@@ -20,6 +38,7 @@ body {
     border-radius: 16px;
     font-size: 32px;
     padding: 30px;
+    height: 510px;
 }
 
 html {
